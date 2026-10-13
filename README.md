@@ -19,7 +19,7 @@ Program ini dibuat untuk menyelesaikan masalah klasik *Water Jug Problem* menggu
 Berikut adalah tampilan visualisasi hasil eksekusi program dari awal hingga target tercapai dalam total **6 langkah optimal**:
 
 #### 1. Inisialisasi (Langkah ke-0 s.d. Langkah ke-3)
-<img src="path/ke/gambar-output-1.png" alt="Output Water Jug Bagian 1" width="400">
+<img src="output-01" alt="Output Water Jug Bagian 1" width="400">
 
 * **Langkah ke-0 (0L, 0L):** Kedua ember (5L dan 3L) awalnya dalam kondisi kosong.
 * **Langkah ke-1 (5L, 0L):** Ember 5 Liter diisi penuh (*fill*) hingga mencapai kapasitas maksimal 5L.
@@ -27,7 +27,7 @@ Berikut adalah tampilan visualisasi hasil eksekusi program dari awal hingga targ
 * **Langkah ke-3 (2L, 0L):** Air di dalam ember 3L dikosongkan (*empty*), sedangkan ember 5L tetap berisi 2L.
 
 #### 2. Penyelesaian Target (Langkah ke-4 s.d. Langkah ke-6)
-<img src="path/ke/gambar-output-2.png" alt="Output Water Jug Bagian 2" width="400">
+<img src="output-02" alt="Output Water Jug Bagian 2" width="400">
 
 * **Langkah ke-4 (0L, 2L):** Sisa 2L air dari ember 5L dipindahkan seluruhnya ke ember 3L, membuat ember 5L menjadi kosong.
 * **Langkah ke-5 (5L, 2L):** Ember 5L kembali diisi penuh hingga mencapai 5L, sementara ember 3L tetap berisi 2L.
