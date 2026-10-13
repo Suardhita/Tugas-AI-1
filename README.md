@@ -2,12 +2,6 @@
 
 > Program berbasis Python untuk menyelesaikan masalah klasik **Water Jug Problem** menggunakan algoritma pencarian cerdas **Breadth-First Search (BFS)**. Dirancang khusus untuk menentukan langkah paling optimal dalam mendapatkan tepat **4 Liter** air pada ember berkapasitas **5 Liter**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Version">
-  <img src="https://img.shields.io/badge/Algorithm-BFS-orange.svg?style=for-the-badge" alt="Algorithm">
-  <img src="https://img.shields.io/badge/Status-Completed-success.svg?style=for-the-badge" alt="Status">
-</p>
-
 ---
 
 ### 👥 Anggota Kelompok
